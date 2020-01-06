@@ -1,0 +1,6 @@
+﻿POLICY_NO,ROLE,LAST_NAME,MIDDLE_NAME,GIVEN_NAME,BIRTH_DT
+0,owner,James,,Ko,01-01-1980
+0,insured,Julie,,Ko,01-01-1981
+1,owner,Julie,,Ko,01-01-1981
+2,owner,Emma,C,Schwartz,01-01-1990
+3,owner,Jane,,Do,01-01-1995
